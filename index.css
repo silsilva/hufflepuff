@@ -1,0 +1,13 @@
+.search-form {
+  border: solid 2px gold;
+}
+
+.search-result-item {
+  display: flex;
+}
+.search-result-item__picture {
+  width: 300px;
+}
+.search-result-item__data {
+  flex-grow: 1;
+}
